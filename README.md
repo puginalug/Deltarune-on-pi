@@ -2,24 +2,12 @@ Deltarune-on-pi
 
 A easy way to get deltarune running on raspberry pi
 
-First update your pi
+Download Both Setup.sh and DELTARUNE.sh
 
->$ sudo apt update && sudo apt upgrade
+Download Deltarune for Windows and Extract it in Downloads 
 
-Then run the following command
+Run Setup.sh(./Setup.sh) and hit ok when wine opens 
 
-> sudo apt install wine 
+Then Run DELTARUNE.sh(./DELTARUNE.sh)
 
->sudo dpkg --add-architecture i386 
-
->winecfg
-
-Click on when wine pops up and close the window
-
-Download Deltarune For Windows and extract it in downloads
-
-Download Deltarune.sh
-
-In the Terminal paste
-
->./DELTARUNE.sh
+Enjoy!
